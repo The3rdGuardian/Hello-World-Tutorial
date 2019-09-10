@@ -1,5 +1,4 @@
 # Hello-World-Tutorial
-1st Assignment DIG3480
 
 using System.Collections;
 using System.Collections.Generic;
